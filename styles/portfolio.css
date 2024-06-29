@@ -1,0 +1,28 @@
+nav{display: flex;
+align-items: center;
+justify-conten;}
+.nav{color: black;
+    font-size: 45px;
+font-weight: 800
+;}
+.primary{color: rgb(255, 153, 0);}
+nav li {list-style: none;
+margin: none
+
+}
+nav a {color: #474747;
+text-decoration: none;}
+.button{border-radius: 5px;
+        background:orange; border: 0;
+    color: white;
+font-size: 20px;
+font-size: 700;
+padding: 15px 35px;}
+nav > ul {align-items: center;}
+nav > li{ margin: 20px; ;}
+nav{justify-content: space-between;margin:  0px 200px;}
+.head{background-color: beige;}
+.banner{padding: 30 40 50 150;display: flex;align-items: center;}
+.profilepic {width: 500px; height: 300px;   
+}
+   
